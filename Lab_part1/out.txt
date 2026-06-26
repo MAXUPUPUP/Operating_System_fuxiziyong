@@ -1,0 +1,19 @@
+total 456
+-rw-r--r--@ 1 guishixiao  staff   4527 Jun 26 14:36 LAB.md
+-rw-r--r--@ 1 guishixiao  staff    579 Jun 26 15:47 Makefile
+-rwxr-xr-x@ 1 guishixiao  staff  33928 Jun 26 15:51 lab1
+drwxr-xr-x@ 3 guishixiao  staff     96 Jun 26 15:51 lab1.dSYM
+-rw-r--r--@ 1 guishixiao  staff   1284 Jun 26 14:35 lab1_fork.c
+-rwxr-xr-x@ 1 guishixiao  staff  50360 Jun 26 15:51 lab2
+drwxr-xr-x@ 3 guishixiao  staff     96 Jun 26 15:51 lab2.dSYM
+-rw-r--r--@ 1 guishixiao  staff   1155 Jun 26 14:54 lab2_memory.c
+-rwxr-xr-x@ 1 guishixiao  staff  33928 Jun 26 15:51 lab3
+drwxr-xr-x@ 3 guishixiao  staff     96 Jun 26 15:51 lab3.dSYM
+-rw-r--r--@ 1 guishixiao  staff    939 Jun 26 15:00 lab3_exec.c
+-rwxr-xr-x@ 1 guishixiao  staff  34104 Jun 26 15:51 lab4
+drwxr-xr-x@ 3 guishixiao  staff     96 Jun 26 15:51 lab4.dSYM
+-rw-r--r--@ 1 guishixiao  staff   1802 Jun 26 15:00 lab4_redirect.c
+-rwxr-xr-x@ 1 guishixiao  staff  33880 Jun 26 15:51 lab5
+drwxr-xr-x@ 3 guishixiao  staff     96 Jun 26 15:51 lab5.dSYM
+-rw-r--r--@ 1 guishixiao  staff   1443 Jun 26 14:41 lab5_buffer.c
+-rw-r--r--@ 1 guishixiao  staff      0 Jun 26 15:53 out.txt
